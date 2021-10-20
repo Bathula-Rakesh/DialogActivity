@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogActivity</string>
+    <string name="content1">Congratulations</string>
+    <string name="content2">"You've displayed an awesome PopupView"</string>
+</resources>
